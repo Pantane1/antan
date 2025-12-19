@@ -1,0 +1,7 @@
+{
+  "name": "Pantane",
+  "description": "An advanced multimodal AI studio featuring real-time conversational voice interaction, professional-grade prompt-based video generation with Veo 3, and high-quality text-to-speech synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
